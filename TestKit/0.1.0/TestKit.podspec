@@ -16,5 +16,5 @@
   },
   "source_files": "TestKit/Classes/**/*.{h,m}",
   "resources": "TestKit/Classes/**/*",
-  # "requires_arc": true
+  "requires_arc": true
 }
